@@ -1,4 +1,3 @@
-baseURL = "https://lcoin-test.netlify.com/"
+baseURL = "https://lc-testing.netlify.com/"
 languageCode = "ja"
 title = "LC"
-theme = "landing-page-hugo-master"
