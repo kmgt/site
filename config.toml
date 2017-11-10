@@ -1,3 +1,4 @@
 baseURL = "https://lcoin-test.netlify.com/"
 languageCode = "ja"
 title = "Hugo Netlify Sample"
+theme = "hugo-icon-master"
