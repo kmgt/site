@@ -1,8 +1,7 @@
-# Page settings
-baseURL = "https://lc-testing.netlify.com/"
-languageCode = "ja"
-title = "LC"
-
+# Site settings
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "Agency"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
