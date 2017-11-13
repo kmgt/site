@@ -1,8 +1,6 @@
-# Page settings
-baseURL = "https://lc-testing.netlify.com/"
-languageCode = "ja"
-title = "LC"
+---
 
+baseurl:            http://blog.nilproductions.com/
 pygmentsuseclasses: true 
 theme:              hugo-incorporated
 
@@ -52,4 +50,3 @@ params:
     google_font: 'Droid+Sans:400,700'
     
     # Setup your fonts, colors etc at _assets/stylesheets/main.scss
-    	
