@@ -1,10 +1,10 @@
 # Page settings
 baseURL = "https://lc-testing.netlify.com/"
-languageCode = "ja"
+
 title = "LC"
 
 theme = "hugo-universal-theme"
-languageCode = "en-us"
+languageCode = "ja"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
