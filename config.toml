@@ -43,28 +43,28 @@ paginate = 10
 # Top bar social links menu
 
 [[menu.topbar]]
-    weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
+#    weight = 1
+#    name = "GitHub"
+#    url = "https://github.com/devcows/hugo-universal-theme"
+#    pre = "<i class='fa fa-2x fa-github'></i>"
 
 [[menu.topbar]]
-    weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
+#    weight = 2
+#    name = "Facebook"
+#    url = "http://facebook.com"
+#    pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
+#    weight = 3
+#    name = "Twitter"
+#    url = "http://twitter.com"
+#    pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:your@email.com"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
+#    weight = 4
+#    name = "Email"
+#    url = "mailto:your@email.com"
+#    pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/news/"
