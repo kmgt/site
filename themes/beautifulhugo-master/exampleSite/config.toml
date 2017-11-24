@@ -1,11 +1,7 @@
-baseURL = "https://lc-testing.netlify.com/"
-
-title = "LC"
-
-theme = "beautifulhugo-master"
+baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-
+title = "Beautiful Hugo"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -96,4 +92,3 @@ pygmentCodeFences = true
     name = "Tags"
     url = "tags"
     weight = 3
-
