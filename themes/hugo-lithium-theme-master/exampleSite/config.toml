@@ -1,11 +1,7 @@
-# Page settings
-baseURL = "https://lc-testing.netlify.com/"
-
-title = "LC"
-
-theme = "hugo-lithium-theme-master"
-languageCode = "ja"
-
+baseurl = "https://example.org"
+languageCode = "en-us"
+title = "Lithium Theme"
+theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
 
@@ -31,5 +27,4 @@ disqusShortname = ""
     width = 50
     height = 50
     alt = "Logo"
-
 
