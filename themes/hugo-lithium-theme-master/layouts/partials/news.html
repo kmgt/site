@@ -1,7 +1,7 @@
 
   <div class="news" id="news">
-    <h2 class="">お知らせ</h2>
-    {{ range (where .Data.Pages "Type" "post")}}
+    {{ range (where .Data.Pages "Type" "post").GroupByDate "2006" }}
+    <h2 class="archive-title">{{ .Key }}</h2>
     {{ range .Pages }}
     <article class="news-item">
         {{ .Date.Format "2006-01-02" }}
@@ -12,3 +12,4 @@
   </div>
 
 <hr>
+
