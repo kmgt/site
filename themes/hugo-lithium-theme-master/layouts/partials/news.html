@@ -1,8 +1,6 @@
 
   <div class="news" id="news">
-    {{ range (where .Data.Pages "Type" "post").GroupByDate "2006" }}
-    <h2 class="archive-title">{{ .Key }}</h2>
-    {{ range .Pages }}
+    <h2 class="">お知らせ</h2>
     <article class="news-item">
         {{ .Date.Format "2006-01-02" }}
       <a href="{{ .Permalink }}" class="news-item-link">{{ .Title }}</a>
