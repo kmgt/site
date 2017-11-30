@@ -1,6 +1,6 @@
 baseurl = "https://lcoin.jp/"
 languageCode = "ja"
-title = "testsite"
+title = "エルコイン"
 theme = "hugo-lithium-theme-master"
 
 [permalinks]
